@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Rakshit</h1>
-<h3 align="center">Aspiring Data Science from iNeuron.ai</h3>
+<h3 align="center">Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamrixx&label=Profile%20views&color=0e75b6&style=flat" alt="ritamrixx" /> </p>
 
