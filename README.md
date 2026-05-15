@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ritam33/](https://www.linkedin.com/in/ritam33/)
 
-- ⚡ Fun fact **I like Football, Traveling and Cooking**
+- ⚡ Fun fact **I like Football and Traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
